@@ -24,7 +24,7 @@ public class LoginController {
 		return "login";
 	}
 
-	@PostMapping( "/login-user" )
+	@PostMapping( "login-user" )
 	public String loginUser( @ModelAttribute LoginRequestDto loginDto, Model model, HttpSession session ) {
 		LoginResponceDto dto = loginservice.login( loginDto );
 		if ( dto == null ) {

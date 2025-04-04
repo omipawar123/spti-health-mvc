@@ -9,27 +9,27 @@
 <title>Document</title>
 
 <link
-	href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css"
-	rel="stylesheet" />
+        href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css"
+        rel="stylesheet" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 <script
-	src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+        src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
 
 <link
-	href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
-	rel="stylesheet">
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+        rel="stylesheet">
 <script src="https://kit.fontawesome.com/aacfaa8406.js"
-	crossorigin="anonymous"></script>
+        crossorigin="anonymous"></script>
 <link rel="stylesheet"
-	href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
-<link href="${pageContext.request.contextPath}/css/style.css"
-	rel="stylesheet">
-<link href="${pageContext.request.contextPath}/css/form.css"
-	rel="stylesheet">
-<link href="${pageContext.request.contextPath}/css/table.css"
-	rel="stylesheet">
-<script src="${pageContext.request.contextPath}/js/common.js"></script>
-<script src="${pageContext.request.contextPath}/js/validation.js"></script>
+        href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+<link href="http://13.203.153.144:8090/office_360_mvc-0.0.1-SNAPSHOT/css/style.css"
+        rel="stylesheet">
+<link href="http://13.203.153.144:8090/office_360_mvc-0.0.1-SNAPSHOT/css/form.css"
+        rel="stylesheet">
+<link href="http://13.203.153.144:8090/office_360_mvc-0.0.1-SNAPSHOT/css/table.css"
+        rel="stylesheet">
+<script src="http://13.203.153.144:8090/office_360_mvc-0.0.1-SNAPSHOT/js/common.js"></script>
+<script src="http://13.203.153.144:8090/office_360_mvc-0.0.1-SNAPSHOT/js/validation.js"></script>
 
 <style type="text/css">
 #toast-container>.toast-success {
