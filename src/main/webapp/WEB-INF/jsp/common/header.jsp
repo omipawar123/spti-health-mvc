@@ -22,14 +22,14 @@
         crossorigin="anonymous"></script>
 <link rel="stylesheet"
         href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
-<link href="http://52.202.53.218:8080/office_360_mvc-0.0.1-SNAPSHOT/css/style.css"
+<link href="http://52.202.53.218:8082/office_360_mvc-0.0.1-SNAPSHOT/css/style.css"
         rel="stylesheet">
-<link href="http://52.202.53.218:8080/office_360_mvc-0.0.1-SNAPSHOT/css/form.css"
+<link href="http://52.202.53.218:8082/office_360_mvc-0.0.1-SNAPSHOT/css/form.css"
         rel="stylesheet">
-<link href="http://52.202.53.218:8080/office_360_mvc-0.0.1-SNAPSHOT/css/table.css"
+<link href="http://52.202.53.218:8082/office_360_mvc-0.0.1-SNAPSHOT/css/table.css"
         rel="stylesheet">
-<script src="http://52.202.53.218:8080/office_360_mvc-0.0.1-SNAPSHOT/js/common.js"></script>
-<script src="http://52.202.53.218:8080/office_360_mvc-0.0.1-SNAPSHOT/js/validation.js"></script>
+<script src="http://52.202.53.218:8082/office_360_mvc-0.0.1-SNAPSHOT/js/common.js"></script>
+<script src="http://52.202.53.218:8082/office_360_mvc-0.0.1-SNAPSHOT/js/validation.js"></script>
 
 <style type="text/css">
 #toast-container>.toast-success {
